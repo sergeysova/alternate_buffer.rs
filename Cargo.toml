@@ -2,5 +2,8 @@
 name = "alternate_buffer"
 version = "0.1.0"
 authors = ["Sergey Sova <mail@sergeysova.com>"]
+description = "Open alternate screen buffer in terminal session"
+repository = "https://github.com/sergeysova/alternate_buffer.rs"
+license = "MIT"
 
 [dependencies]

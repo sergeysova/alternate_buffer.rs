@@ -2,6 +2,7 @@ extern crate alternate_buffer;
 
 use std::thread;
 
+#[allow(unused_must_use, deprecated)]
 fn main() {
     println!("Example output in main buffer");
 
